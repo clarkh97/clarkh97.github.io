@@ -87,17 +87,5 @@ div.section {
 	margin-bottom:1.5em;
 	margin-right: 1em;
 }
-<style>
-.zoom {
-  padding: 5px;
-  transition: transform .2s; /* Animation */
-  height: 100%;
-  margin: 0 auto;
-}
 
-.zoom:hover {
-  transform: scale(1.2); /* zoom makes an image larger when the mouse moves over it. */
-}
-</style>
 
-<div class="zoom"></div>
